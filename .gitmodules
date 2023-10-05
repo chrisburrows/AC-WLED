@@ -1,0 +1,3 @@
+[submodule "local_customisations"]
+	path = local_customisations
+	url = ssh://git@192.168.1.2:11022/chris/wled-configs.git
