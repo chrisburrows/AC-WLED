@@ -11,6 +11,7 @@
 
 esp01-update.sh
 platformio_override.ini
+my_config.h
 replace_fs.py
 wled00/wled00.ino.cpp
 local_customisations
